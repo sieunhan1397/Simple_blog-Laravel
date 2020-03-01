@@ -17,5 +17,10 @@
     </div>
     @endforeach
     {{-- End --}}
+    <div class="row">
+        <div class="col-sm-6 offset-sm-3">
+            {!! $articles->render() !!}
+        </div>
+    </div>
 </div>
 @endsection
