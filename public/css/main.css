@@ -1,0 +1,26 @@
+#footer {
+    margin-top: 50px;
+}
+
+#footer .col-sm-6 {
+    border-top: 1px solid #666;
+    padding: 35px 0;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.btn--back {
+    padding: 0 0 10px 2px;
+    font-size: 16px;
+}
+
+.row .btn-control {
+    display: flex;
+}
+
+.row .btn-control button {
+    margin-left: 4px;
+}
